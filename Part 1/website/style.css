@@ -1,0 +1,79 @@
+body {
+    background-color: #fef9f3;
+    font-family: 'Nunito', sans-serif;
+    margin: 30px;
+}
+
+main {
+    background-color: #ffdce1;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    color: #4a4a4a;
+    text-align: justify;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #6b8e23;
+    font-size: 2rem; 
+    text-align: center;
+}
+
+h2 {
+    color: #4a4a4a;
+    font-size: 2rem; 
+    text-align: center;
+
+}
+
+nav{
+    background-color: #ffb6c1;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    font-size: 20px;
+    padding: 10px 0;
+     
+}
+nav>a{
+    text-decoration: none; 
+    color: white;
+    margin: 0 20px;
+}
+
+nav>a:hover{
+    font-weight: 1000;}
+
+#images {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+#contact {
+    color:#6b8e23;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#contact>h3 {
+    font-size: 25px;
+    color:#6b8e23;
+    font-style:italic;
+    font-weight: bolder;
+}
+
+#contact>a {
+    text-decoration: none;
+    color: #4a4a4a; 
+    font-size: 20px;
+    margin: 10px;
+}
+
+#contact a:hover {
+    font-weight: 1000;
+    color: #6b8e23;
+}
