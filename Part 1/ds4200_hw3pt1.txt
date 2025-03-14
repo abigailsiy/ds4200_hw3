@@ -1,0 +1,19 @@
+Website Hyperlink: https://abigailsiy.github.io/ds4200_hw3website/
+
+
+Customizations used for the website:
+The background color for the body of this website is a creamy white (#fef9f3) and the font used is ‘Nunito’
+The color of the text in the main header is green (#6b8e23) and it is centered.
+The main section of the page has a light pink (#ffdce1) background color to differentiate it from the overall page
+background. The margins are set differently for each side, 50px for left and right, 30px for the top and bottom.
+There is also a padding of 20px so that there is space between the content and the border of the main section. The
+content is aligned using a justified text alignment.
+A navigation bar was used to navigate your way around the website easily. A darker pink (#ffb6c1) was used, and
+the font was ‘Poppins.’ There is a font size of 20px and a padding of 10px. The links in the navigation bar are
+colored white and every time a mouse hovers over a link, the font weight changes to a bolder weight, emphasizing
+it.
+The images in both pages were all aligned to the center with varying widths.
+The contact information section, the content is centered, and the text color for the header of this is set to the same
+green as in the main header. The font size is 25px and is italicized and bold. The links have a font-size of 20px
+and dark grey color (#4a4a4a), with some spacing between them. The links become bold and change to the same
+green color when you hover over it.
